@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "763725671525",
+    "project_id": "atik-hestiana",
+    "storage_bucket": "atik-hestiana.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763725671525:android:72d2b27bd0f11f5dc62a8c",
+        "android_client_info": {
+          "package_name": "com.hestiana.apk9"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763725671525-rqsh3e5lacd1iep27jehkbk0j2hnpa3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqEgVWdifLAIrKVdis_0e4v-hXemY4VVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763725671525-rqsh3e5lacd1iep27jehkbk0j2hnpa3t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763725671525:android:cf28c0d88d1d93fec62a8c",
+        "android_client_info": {
+          "package_name": "com.hestiana.lyodratakdianggap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763725671525-rqsh3e5lacd1iep27jehkbk0j2hnpa3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqEgVWdifLAIrKVdis_0e4v-hXemY4VVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763725671525-rqsh3e5lacd1iep27jehkbk0j2hnpa3t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
